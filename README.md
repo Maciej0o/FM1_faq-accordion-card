@@ -1,3 +1,5 @@
+https://maciej0o.github.io/FM1_faq-accordion-card/
+
 # Frontend Mentor - FAQ accordion card
 
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
